@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Hazzaz Abdul Mannan</h1>
 <h3 align="center">A Passionate Front-End Developer from Bangladesh</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=hazzazabdul&label=Profile%20views&color=0e75b6&style=flat" alt="hazzazabdul" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=hazzaz-am&label=Profile%20views&color=0e75b6&style=flat" alt="hazzaz-am" /> </p>
 
 <table align="center">
 <tr border="none">
@@ -30,13 +30,13 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=hazzazabdul&theme=dark&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=hazzaz-am&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hazzazabdul&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hazzaz-am&theme=dark&hide_border=false" /> 
 </td>
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hazzazabdul&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hazzaz-am&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>

@@ -63,6 +63,6 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,firebase,github&perline=10" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,github,firebase,mongodb,&perline=10" />
   </a>
 </p>
